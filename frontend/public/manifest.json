@@ -1,0 +1,35 @@
+{
+  "name": "Kapra Store",
+  "short_name": "Kapra",
+  "description": "Premium Unstitched Fabric — Nationwide COD Delivery",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#b45309",
+  "background_color": "#fdf6ee",
+  "lang": "en-PK",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Kapra Store Mobile"
+    }
+  ]
+}
