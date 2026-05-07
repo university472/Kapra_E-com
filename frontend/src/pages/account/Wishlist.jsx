@@ -1,6 +1,3 @@
-export const Wishlist = () => {
-  return <div>Wishlist</div>
-}
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { Heart, ShoppingBag } from 'lucide-react'
